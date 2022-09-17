@@ -7,18 +7,18 @@
 -Aiming For Google Especially For Android Developmet
 
 
-##Programming Languages I have Learned :
+## Programming Languages I have Learned :
 -I'm currently doing Java (Noob Level)
 
 
-##Interest :
+## Interest :
 -Custom Android ROMS (Using Arrow OS A12.1)
 -Magisk
 -Anime (Especially CDGCT)
 -Anime Music
 
 
-##My Personal Info :
+## My Personal Info :
 Why would i share it here?
 
 <!--
