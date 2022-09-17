@@ -1,5 +1,4 @@
-### Hi there 👋. Welcome To My Profile.
-
+# WELCOME! 
 
 ## Who am I?
 - A Computer Science Student 
